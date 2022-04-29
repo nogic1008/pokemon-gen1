@@ -1,7 +1,10 @@
 {
   "name": "pokemon-gen1",
   "description": "Web app for pokemon 1st Gen",
+  "version": "0.1.0",
+  "repository": "https://github.com/nogic1008/pokemon-gen1",
   "private": true,
+  "license": "MIT",
   "workspaces": [
     "packages/**"
   ],

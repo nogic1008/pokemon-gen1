@@ -1,0 +1,14 @@
+{
+  "name": "@nogic1008/pokemon-gen1-core",
+  "description": "Core logic for Pokemon Gen1",
+  "version": "0.1.0",
+  "repository": "https://github.com/nogic1008/pokemon-gen1",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "scripts": {
+    "test": "echo \"no test\""
+  }
+}
