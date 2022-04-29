@@ -1,0 +1,19 @@
+{
+  "name": "pokemon-gen1",
+  "description": "Web app for pokemon 1st Gen",
+  "private": true,
+  "workspaces": [
+    "packages/**"
+  ],
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.21.0",
+    "@typescript-eslint/parser": "^5.21.0",
+    "eslint": "^8.14.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-node": "^11.1.0",
+    "husky": "^7.0.4",
+    "lint-staged": "^12.4.1",
+    "npm-run-all2": "^5.0.2",
+    "prettier": "^2.6.2"
+  }
+}
